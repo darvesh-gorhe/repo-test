@@ -1,0 +1,14 @@
+# Would be .py file if I could install python on this machine
+
+i = 0
+j = 0
+
+import numpy as np
+ROW, COL = input("Enter the rows and columns of matrix")
+
+A = np.zeros()
+
+ if np.all(A == 0):
+    print("This is a zero matrix)
+
+# Add actual row reducing algorithm here
